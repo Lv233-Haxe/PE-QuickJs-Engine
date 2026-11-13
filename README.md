@@ -42,3 +42,4 @@ If the version looks like just "1.0", it is a debug test build. Only versions pr
          
             *   ---
             *   *License compliance (LICENSE & NOTICE) has been included in the APK since v1.1.0. The source code is private and closed-source. If you don't like it, don't use it.*
+            *   OK
